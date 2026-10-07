@@ -1,0 +1,6 @@
+,Baseline (proportional-to-request),NSGA-II Balanced
+total_allocated,1633.2200000000003,1633.22
+budget_utilization_pct,100.00000000000001,100.0
+total_predicted_impact,41.73945676535747,46.47837670520801
+need_weighted_impact,20.84055581668641,25.828979533625397
+unmet_need,29.894983224108405,20.528640843751553

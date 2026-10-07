@@ -1,0 +1,4 @@
+budget_fraction,budget_lakh,total_allocated_lakh,budget_utilization_pct,total_predicted_impact,need_weighted_impact,unmet_need,gini_inequality
+0.4,1089.84,1089.1,99.93,33.3004,19.3386,34.1965,0.2906
+0.6,1634.76,1633.24,99.91,46.4781,25.8278,20.5295,0.1809
+0.8,2179.68,2177.52,99.9,57.0788,29.6668,12.0856,0.0932

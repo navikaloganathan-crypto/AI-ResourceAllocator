@@ -1,0 +1,4 @@
+model,MAE,RMSE,WAPE,R2,best_params
+Random Forest,0.0498,0.0631,0.1417,0.7533,"{'n_estimators': 200, 'min_samples_leaf': 2, 'max_depth': 15}"
+XGBoost,0.0506,0.0663,0.144,0.7277,"{'subsample': 0.7, 'n_estimators': 200, 'max_depth': 3, 'learning_rate': 0.05}"
+LightGBM,0.0522,0.0653,0.1486,0.7361,"{'num_leaves': 15, 'n_estimators': 100, 'learning_rate': 0.05}"

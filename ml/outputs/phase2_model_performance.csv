@@ -1,0 +1,4 @@
+model,MAE,RMSE,WAPE,R2
+Random Forest Regressor,0.0487,0.0626,0.1387,0.7575
+XGBoost Regressor,0.0517,0.0684,0.1471,0.71
+LightGBM Regressor,0.0558,0.0694,0.1588,0.702
